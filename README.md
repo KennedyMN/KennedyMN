@@ -1,5 +1,1 @@
-## Hi there 👋
-
-My name is Kenedy
- 🔭 I’m currently learning computer programming 🥳
-Looking for a tech lover, here's one😊
+Hi there 👋, I'm Kennedy. 🌱 Learning programming, 💻 passionate about Programming & IoT systems, and ⚡ a tech lover. Skilled in Linux & terminal basics. 🌍 Based in Nairobi, Kenya. ✉️ Reach me at nyagahkennedymurimi@gmail.com. 🤝 Open to collaborating on coding projects.
